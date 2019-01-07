@@ -1,0 +1,9 @@
+﻿Group: Misc ActionFilter
+FriendlyName: ActionFilter Friendly Name
+SystemName: Misc.ActionFilter
+Version: 1.10
+SupportedVersions: 3.80
+Author: adma
+DisplayOrder: 1
+FileName: Nop.Plugin.Misc.ActionFilter.dll
+Description: This plugin enables ActionFilter
